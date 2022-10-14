@@ -241,7 +241,5 @@ int main(int argc, const char * argv[]) {
     return 0;
   }
   
-  //STUDENT -- add your own additional tests here...
-  doBasicTest();
   return 0;
 }
